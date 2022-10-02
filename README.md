@@ -1,4 +1,4 @@
-# IBM-Project-35509-1660285389
+﻿# IBM-Project-35509-1660285389
 ## *Web Phishing Detection*
 ### Team Members:
 
@@ -28,3 +28,6 @@ Common threats of web phishing:
 In order to detect and predict e-banking phishing websites, we proposed an intelligent, flexible and effective system that is based on using classification algorithms.  We implemented classification algorithms and techniques to extract the phishing datasets criteria to classify their legitimacy. The e-banking phishing website can be detected based on some important characteristics like URL and domain identity, and security and encryption criteria in the final phishing detection rate. Once a user makes a transaction online when he makes payment through an e-banking website our system will use a data mining algorithm to detect whether the e-banking website is a phishing website or not.
 
 ## Technical Architecture:
+
+![pasted image 0](https://user-images.githubusercontent.com/62200224/191585875-9db35871-72b5-476e-ac9b-3795cf3778de.png)
+
